@@ -8,3 +8,6 @@ Main features of the program:
 3. change the extension of the file from .txt to .html
 4. check if this file is empty
 5. read each line from the file and add necessary tags
+
+Please, mind that the output "SourceFile.html" is not included in this repo, you can run the program in your IDE and generate the file as a result;
+
