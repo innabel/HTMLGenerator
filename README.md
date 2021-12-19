@@ -11,3 +11,5 @@ Main features of the program:
 
 Please, mind that the output "SourceFile.html" is not included in this repo, you can run the program in your IDE and generate the file as a result;
 
+This application was created to practice swing library functions, needs to be refactored and improved according to OOP principles.
+
